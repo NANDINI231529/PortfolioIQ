@@ -1,0 +1,16 @@
+[global]
+developmentMode = false
+
+[theme]
+base = "dark"
+primaryColor = "#d8b46a"
+backgroundColor = "#08111f"
+secondaryBackgroundColor = "#101d30"
+textColor = "#edf2f7"
+font = "sans serif"
+
+[server]
+headless = true
+address = "localhost"
+enableCORS = true
+enableXsrfProtection = true

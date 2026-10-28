@@ -1,0 +1,8 @@
+# Core application dependencies. Use a Python 3.12 virtual environment.
+streamlit>=1.35
+pandas>=2.0
+numpy>=1.26
+matplotlib>=3.8
+seaborn>=0.13
+yfinance>=0.2.40
+scipy>=1.11
